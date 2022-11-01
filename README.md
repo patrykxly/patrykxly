@@ -25,6 +25,7 @@ I am Applied Computer Science student at the AGH UST.
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="MaterialUI Logo" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap Logo"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="40" height="40" alt="Webpack Logo"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain-wordmark.svg" width="40" height="40" alt="Jasmine Logo"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C# Logo"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET Logo"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++ Logo"/>
